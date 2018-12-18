@@ -1,0 +1,548 @@
+body {
+    overflow-x: hidden;
+}
+
+/* home page starts here */
+
+.bkg-img{
+  background-image: url(../img/appetizer-avocado-bread-566566.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.navbar-nav{
+	position: relative;
+	float: right;
+	right: 4%;
+}
+
+/* header content starts here*/
+
+.welcome {
+    float: right;
+    color: white;
+    position: relative;
+    top: 142px;
+    right: 263px;
+}
+
+.brand-name {
+    float: right;
+    color: white;
+    position: relative;
+    top: 186px;
+    right: -106px;
+    font-size: 50px;
+}
+
+/*food pictures css starts here*/
+
+
+
+.order-btn-home {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    position: relative;
+    top: 280px;
+    left: 690px;
+    border-radius: 30px;
+    width: 164px;
+    height: 53px;
+    background-color:#ffffff1c;;
+    color: white;
+    border: none;
+}
+
+.well {
+    position: relative;
+    height: 521px;
+    width: 75%;
+    left: 395px;
+    background-color: #00000087;
+    border: none;
+}
+
+.contents-head{
+	position: relative;
+	color: white;
+	top: 316px;
+    left: 2%;
+}
+
+
+/*body contents starts here*/
+
+.col-md-4 {
+    position: relative;
+    top: 485px;
+    color: red;
+}
+
+.copyright-footer {
+    position: relative;
+    color: black;
+    left: 90%;
+    top: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+/* about page starts here */
+
+
+.intro-header{
+        width: 100%;
+    height: 500px;
+    position: relative;
+    background-size: cover;
+}
+
+.page-heading{
+    position: relative;
+    top: 229px;
+    
+}
+
+.subheading{
+    color: white;
+    position: relative;
+    font-size: 30px;
+    font-family: monospace;
+    left: 200px;
+}
+
+
+ .h1 {
+    font-size: 100px;
+    position: relative;
+    left: 60px;
+    color: white;
+    font-family: precious;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 2px solid #eee;
+    width: 60%;
+    position: relative;
+    left: -50px;
+}
+
+/*body content*/
+
+.aboutcontent{
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+    text-align: justify-all;
+}
+
+.aboutcontent-img{
+    position: relative;
+    top: -260px;
+}
+.content-b{
+    position: relative;
+    text-align: justify;
+}
+
+.caption {
+    position: relative;
+    font-size: 18px;
+    left: 76px;
+}
+
+.copyright-footer-about {
+    position: relative;
+    color: black;
+    left: 90%;
+    top: 124px;
+}
+
+
+
+/*contact section tarts here*/
+
+.subheading-contact{
+    position: relative;
+    color: white;
+    left: 190px;
+
+}
+
+.mainhead-contact{
+ position: relative;
+    color: white;
+    left: 210px;
+     font-family: precious;
+         font-size: 70px;
+}
+
+    .small {
+    font-size: 85%;
+    position: relative;
+    left: 21px;
+    width: 316px;
+}
+
+
+.contact-heading{
+    position: relative;
+    font-family: monospace;
+    top: 23px;
+    font-size: 20px;
+}
+
+.contact-forms {
+    position: relative;
+    width: 100%;
+    height: 70px;
+    border-left: none;
+    border-right: none;
+    border-color: white;
+    font-size: 27px;
+}
+
+.contact-message {
+    position: relative;
+    width: 100%;
+    height: 170px;
+    font-size: 30px;
+    font-family: monospace;
+    border-left: none;
+    border-right: none;
+    border-color: #ababab;
+}
+
+.btn-primary {
+    position: relative;
+    border-radius: 0%;
+    width: 90px;
+    height: 40px;
+    font-size: 19px;
+    background-color: white;
+    color: black;
+    border: #633a0a;
+    top: 30px;
+}
+
+.foot-contents{
+    position: relative;
+    top: 180px;
+    color: white;
+}
+
+.bkg-ofthefooter{
+    position: relative;
+}
+.img-responsive {
+    position: relative;
+    top: 261px;
+}
+
+
+.copyright-footer-contact {
+    position: relative;
+    color: black;
+    left: 90%;
+    top: 124px;
+}
+
+
+
+/*Gallery page*/
+.header-image {
+    background-image: url(../img/about-bkg.jpeg);
+    width: 100%;
+    height: 443px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-image .header-text {
+    font-family: precious;
+    text-align: center;
+    color: #f3f1ed;
+    position: relative;
+    top: 25%;
+    font-size: 44px;
+}
+.gallery-ef {
+    margin: 12px 15px 0px 15px;
+}
+.gallery-image0 {
+    background-image: url(../img/asian-food-bowl-cuisine-699953.jpg);
+    width: 344px;
+    height: 293px;
+    position: unset;
+    border-radius: 10%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.gallery-image0:hover {
+    background-color: red;
+}
+.gallery-ef h3 {
+    color: #0c0202;
+    /* text-align: center; */
+    font-size: 24px;
+    position: relative;
+    top: 82%;
+    right: 12%;
+    overflow-wrap: break-word;
+    font-family: lato;
+    font-weight: 600;
+}
+.gallery-image1 {
+    background-image: url(../img/basil-dinner-food-8500.jpg);
+    width: 344px;
+    height: 293px;
+    position: unset;
+    border-radius: 10%;
+}
+.gallery-image2 {
+    background-image: url(../img/basil-dinner-food-8500.jpg);
+    width: 344px;
+    height: 293px;
+    position: unset;
+    border-radius: 10%;
+}
+.gallery-image0:hover {
+    background-color: green;
+    position: unset;
+    left: 79px;
+}
+.gallery-image3 {
+    background-image: url(../img/basil-dinner-food-8500.jpg);
+    width: 344px;
+    height: 293px;
+    position: unset;
+    border-radius: 10%;
+}
+.gallery-image4 {
+    background-image: url(../img/basil-dinner-food-8500.jpg);
+    width: 344px;
+    height: 293px;
+    position: unset;
+    border-radius: 10%;
+}
+.gallery-image5 {
+    background-color: red;
+    width: 344px;
+    height: 293px;
+    position: unset;
+    border-radius: 10%;
+}
+.gallery-image5:hover {
+    background-color: blue;
+    content: "REd"
+}
+.desc-body {
+        display: block;
+    /* padding: 4px; */
+    /* margin-bottom: 20px; */
+    line-height: 1.42857143;
+    background-color: #ffffff94;
+    border: 1px solid #ddd;
+    border-radius: 39px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+    position: relative;
+    top: 65%;
+    width: 100%;
+}
+.order-btn {
+    position: relative;
+    left: 10%;
+    background-color: #4cae4cad;
+    font-size: 17px;
+    color: aliceblue;
+}
+.store-status {
+    float: right;
+    background-color: blue;
+    position: relative;
+    top: 3%;
+    font-size: 18px;
+}
+/*MEDIA QUERY*/
+@media screen and (max-width: 402px) {
+    .food-search-icon {
+    position: relative;
+    top: 155px;
+    left: 68%;
+    font-size: 30px;
+    display: none;
+}
+    .search-form {
+    position: relative;
+    width: 92%;
+    left: 4%;
+    height: 55px;
+    top: 136px;
+}
+    .changeinfotexts {
+    text-decoration: none;
+    font-size: 39px;
+    position: relative;
+    top: 101px;
+    text-align: start;
+    color: wheat;
+    left: 2%;
+    overflow-wrap: break-word;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    background-color: #080808;
+    position: relative;
+    right: -14px;
+    width: 402px;
+    text-align: center;
+}
+.form-opt {
+    margin-top: 10px;
+    width: 87%;
+    position: relative;
+    left: 7%;
+}
+.opt-count {
+    width: 87%;
+    position: relative;
+    left: 7%;
+    height: 34px;
+    margin-top: 9px;
+}
+.btn-order2 {
+    position: relative;
+    left: 31%;
+    margin-top: 10px;
+}
+}
+/*@media screen and (min-width: 778px) {
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    background-color: #080808;
+    position: relative;
+    left: 28px;
+    width: 766px;
+    text-align: center;
+}
+}*/
+
+/*POP FORM FOR FOOD ORDER*/
+.order-title {
+    text-align: center;
+}
+.form-opt {
+    margin-top: 10px;
+    width: 81%;
+    position: relative;
+    left: 52px;
+}
+.modal-body {
+    position: relative;
+    padding: 15px;
+    background-color: #7032a9;
+}
+.opt-count {
+    width: 81%;
+    position: relative;
+    left: 51px;
+    height: 34px;
+    margin-top: 9px;
+}
+.btn-order2 {
+    position: relative;
+    left: 35%;
+    margin-top: 10px;
+}
+.trendimage {
+    width: 100%;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 8px;
+}
+.trending-head {
+    background-color: #eee;
+    margin: 16px 0px 2px 0px;
+    border: 1px groove red;
+    border-radius: 10px;
+    text-align: center;
+    font-family: precious;
+    font-weight: 900;
+    font-size: 60px;
+}
+.trending-head:hover {
+    background-color: #eeeeee78;
+    margin: 16px 0px 2px 0px;
+    border: 1px groove #ab6868;
+    border-radius: 10px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 900;
+    font-size: 60px;
+}
+.trending-head p {
+    text-align: center;
+    font-family: lato;
+    font-size: 32px;
+}
+.trending-head p span {
+    color: red;
+}
+.bottom-info {
+    position: fixed;
+}
+.bottom-info {
+    position: fixed;
+    background-image: url(../img/acgf.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.bottom-info h2 {
+    color: sienna;
+    font-weight: 900;
+    text-align: center;
+    font-size: 37px;
+}
+.changeinfotexts {
+    text-decoration: none;
+    font-size: 53px;
+    position: relative;
+    top: 194px;
+    text-align: start;
+    color: wheat;
+    left: 15%;
+    overflow-wrap: break-word;
+}
+.changeinfotexts:hover {
+    text-decoration: none;
+}
+.search-form {
+    position: relative;
+    width: 50%;
+    left: 21%;
+    height: 55px;
+    top: 198px;
+}
+.food-search-icon {
+    position: relative;
+    top: 155px;
+    left: 68%;
+    font-size: 30px;
+}
+.we {
+    position: relative;
+    top: 300px;
+}
